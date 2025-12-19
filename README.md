@@ -1,4 +1,4 @@
-## SQL Learning Journey – Day 1
+## SQL Learning Journey 
 
 After working with **NoSQL databases**, I have now started learning **SQL databases**.
 
