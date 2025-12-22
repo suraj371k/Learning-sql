@@ -47,7 +47,7 @@ DELETE FROM table_name;
 ### **Delete a Table**
 
 ```sql
-DROP TABLE Customers;
+DROP TABLE Customers;  
 ```
 
 ### Limit
