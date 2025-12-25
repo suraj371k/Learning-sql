@@ -8,5 +8,6 @@ I will be sharing my **SQL learning journey daily for the next 10 days**. After 
 **Day 2 of SQL learning has been successfully completed.**
 **Day 3 of SQL learning has been successfully completed.**
 **Day 4 of SQL learning has been successfully completed.**
+**Day 5 of SQL learning has been successfully completed.**
 
 
